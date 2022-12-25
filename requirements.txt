@@ -1,0 +1,3 @@
+instagram-private-api
+matplotlib
+python-dotenv
